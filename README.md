@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meManish47
-- 👀 I’m interested in develop myself day by day. 
-- 🌱 I’m currently learning python and c++  
+- 👀 I’m interested in improving myself day by day. 
+- 🌱 I’m currently learning python and C++  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kmanish57610@gmail.com
 <!---
